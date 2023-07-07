@@ -1,0 +1,24 @@
+{
+  "keys": {
+    "command": {
+      "bind": {
+        "9,9": "jupyter-notebook:restart-kernel-and-run-all-cells",
+        "ctrl-0,ctrl-0": "jupyter-notebook:confirm-shutdown-kernel",
+        "shift-r": "jupyter-notebook:rename-notebook",
+        "shift-f": "jupyter-notebook:find-and-replace",
+        "shift-i": "jupyter-notebook:insert-image",
+        "shift-n": "jupyter-notebook:show-all-line-numbers",
+        "shift-b": "jupyter-notebook:hide-all-line-numbers",
+        "shift-a": "jupyter-notebook:auto-indent"
+      }
+    }
+  },
+  "Cell": {
+    "cm_config": {
+      "lineNumbers": false
+    }
+  },
+  "Notebook": {
+    "Toolbar": true
+  }
+}
